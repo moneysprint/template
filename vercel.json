@@ -1,0 +1,17 @@
+{
+  "routes": [
+    {
+      "src": "/macbook-air-m4-review",
+      "dest": "/macbook-air-m4.html"
+    },
+    {
+      "src": "/styles.css",
+      "dest": "/styles.css"
+    },
+    {
+      "src": "/scripts.js",
+      "dest": "/scripts.js"
+    }
+  ]
+}
+
